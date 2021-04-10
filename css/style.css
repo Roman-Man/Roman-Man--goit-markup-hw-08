@@ -623,7 +623,7 @@ body {
 /* Portfolio styles */
 
 .filter-list {
-  display: flex;
+  display: none;
   justify-content: center;
   margin-bottom: 50px;
 }
